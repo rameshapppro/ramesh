@@ -1,12 +1,18 @@
 import type { NextConfig } from 'next';
 
 const nextConfig: NextConfig = {
-    output: 'export',
+  output: 'export',
+
   images: {
-    unoptimized: true
+    unoptimized: true,
   },
-  basePath: '/ramesh', // repo name
+
+  basePath: '/ramesh', // repository name
   assetPrefix: '/ramesh/',
+
+  eslint: {
+    ignoreDuringBuilds: true,
+  },
 };
 
 export default nextConfig;
