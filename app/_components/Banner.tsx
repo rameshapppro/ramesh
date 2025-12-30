@@ -24,7 +24,7 @@ const Banner = () => {
                         </span>
                         . Senior Android Developer with 11+ years of experience delivering scalable, high-performance apps. Expert in Kotlin, Java, Jetpack Compose, clean architecture, SDLC ownership, team leadership, performance optimization, and Agile delivery.
                     </p>
-                    <Button
+                    {/* <Button
                         as="link"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -33,7 +33,7 @@ const Banner = () => {
                         className="mt-9 banner-button slide-up-and-fade"
                     >
                         Hire Me
-                    </Button>
+                    </Button> */}
                 </div>
 
                 <div className="md:absolute bottom-[10%] right-[4%] flex md:flex-col gap-4 md:gap-8 text-center md:text-right">
