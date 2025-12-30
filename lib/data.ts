@@ -21,27 +21,27 @@ export const MY_STACK = {
     frontend: [
         {
             name: 'Java',
-            icon: '/logo/java.png',
+            icon: 'https://rameshapppro.github.io/ramesh/logo/java.png',
         },
         {
             name: 'Kotlin',
-            icon: '/logo/kotlin.png',
+            icon: 'https://rameshapppro.github.io/ramesh/logo/java.png/logo/kotlin.png',
         },
         {
             name: 'Dart',
-            icon: '/logo/dart.png',
+            icon: 'https://rameshapppro.github.io/ramesh/logo/java.png/logo/dart.png',
         },
 
         {
             name: 'HTML',
-            icon: '/logo/html.png',
+            icon: 'https://rameshapppro.github.io/ramesh/logo/java.png/logo/html.png',
         }
 
     ],
     backend: [
         {
             name: 'Spring Boot',
-            icon: '/logo/springboot.webp',
+            icon: 'https://rameshapppro.github.io/ramesh/logo/java.png/logo/springboot.webp',
         }
 
 
@@ -49,15 +49,15 @@ export const MY_STACK = {
     database: [
         {
             name: 'MySQL',
-            icon: '/logo/mysql.svg',
+            icon: 'https://rameshapppro.github.io/ramesh/logo/java.png/logo/mysql.svg',
         },
         {
             name: 'PostgreSQL',
-            icon: '/logo/postgreSQL.png',
+            icon: 'https://rameshapppro.github.io/ramesh/logo/java.png/logo/postgreSQL.png',
         },
         {
             name: 'Firebase',
-            icon: '/logo/firebase.png',
+            icon: 'https://rameshapppro.github.io/ramesh/logo/java.png/logo/firebase.png',
         }
 
 
@@ -65,16 +65,16 @@ export const MY_STACK = {
     tools: [
         {
             name: 'Studio',
-            icon: '/logo/studio.png',
+            icon: 'https://rameshapppro.github.io/ramesh/logo/java.png/logo/studio.png',
         },
         {
             name: 'Git',
-            icon: '/logo/git.png',
+            icon: 'https://rameshapppro.github.io/ramesh/logo/java.png/logo/git.png',
         },
 
         {
             name: 'VS code',
-            icon: '/logo/vscode.png',
+            icon: 'https://rameshapppro.github.io/ramesh/logo/java.png/logo/vscode.png',
         },
     ],
 };
