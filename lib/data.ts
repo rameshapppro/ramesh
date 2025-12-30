@@ -130,10 +130,10 @@ export const PROJECTS: IProject[] = [
             'MVVM Architecture',
             'Hilt',
         ],
-        thumbnail: '/projects/images/prop.png',
-        longThumbnail: '/projects/images/prop.png',
+        thumbnail: 'https://rameshapppro.github.io/ramesh/projects/images/prop.png',
+        longThumbnail: 'https://rameshapppro.github.io/ramesh/projects/images/prop.png',
         images: [
-            '/projects/images/prop.png',
+            'https://rameshapppro.github.io/ramesh/projects/images/prop.png',
 
         ],
     },
@@ -149,10 +149,10 @@ export const PROJECTS: IProject[] = [
             'Material design',
             'Hilt',
         ],
-        thumbnail: '/projects/images/agri.png',
-        longThumbnail: '/projects/images/agri.png',
+        thumbnail: 'https://rameshapppro.github.io/ramesh/projects/images/agri.png',
+        longThumbnail: '/https://rameshapppro.github.io/rameshprojects/images/agri.png',
         images: [
-            '/projects/images/agri.png',
+            'https://rameshapppro.github.io/ramesh/projects/images/agri.png',
 
         ],
         liveUrl: 'https://demo.epikcart.siphertech.com/',
@@ -206,10 +206,10 @@ Farm Voice is an interactive platform where farmers can connect with progressive
             'Firebase',
             'MVVM Architecture',
         ],
-        thumbnail: '/projects/images/audi.png',
-        longThumbnail: '/projects/images/audi.png',
+        thumbnail: 'https://rameshapppro.github.io/ramesh/projects/images/audi.png',
+        longThumbnail: 'https://rameshapppro.github.io/ramesh/projects/images/audi.png',
         images: [
-            '/projects/images/audi.png',
+            'https://rameshapppro.github.io/ramesh/projects/images/audi.png',
         ],
         liveUrl: 'https://resume-roaster.vercel.app/',
         year: 2018,
@@ -238,10 +238,10 @@ Farm Voice is an interactive platform where farmers can connect with progressive
             'Firebase',
             'MVP Architecture',
         ],
-        thumbnail: '/projects/thumbnail/property-pro.jpg',
-        longThumbnail: '/projects/long/property-pro.jpg',
+        thumbnail: 'https://rameshapppro.github.io/ramesh/projects/thumbnail/property-pro.jpg',
+        longThumbnail: 'https://rameshapppro.github.io/ramesh/projects/long/property-pro.jpg',
         images: [
-            '/projects/images/adi.png',
+            'https://rameshapppro.github.io/ramesh/projects/images/adi.png',
 
         ],
         liveUrl: 'https://demo.propertypro.siphertech.com/',
@@ -265,10 +265,10 @@ Farm Voice is an interactive platform where farmers can connect with progressive
         title: 'TouchPoint',
         slug: 'TouchPoint',
         techStack: ['Java', 'SQLite', 'MP Chart', 'Bootstrap'],
-        thumbnail: '/projects/images/repo.png',
-        longThumbnail: '/projects/images/repo.png',
+        thumbnail: 'https://rameshapppro.github.io/ramesh/projects/images/repo.png',
+        longThumbnail: 'https://rameshapppro.github.io/ramesh/projects/images/repo.png',
         images: [
-            '/projects/images/repo.png',
+            'https://rameshapppro.github.io/ramesh/projects/images/repo.png',
         ],
         sourceCode: 'https://github.com/Tajmirul/crenotive',
         liveUrl: 'https://crenotive.netlify.app/',
@@ -291,10 +291,10 @@ Farm Voice is an interactive platform where farmers can connect with progressive
         title: 'SurveyBeat',
         slug: 'devLinks',
         techStack: ['Java', 'SQLite', 'Firebase', 'Background Services', 'MVP Architecture'],
-        thumbnail: '/projects/images/sur.png',
-        longThumbnail: '/projects/images/sur.png',
+        thumbnail: 'https://rameshapppro.github.io/ramesh/projects/images/sur.png',
+        longThumbnail: 'https://rameshapppro.github.io/ramesh/projects/images/sur.png',
         images: [
-            '/projects/images/sur.png'
+            'https://rameshapppro.github.io/ramesh/projects/images/sur.png'
         ],
         sourceCode: 'https://github.com/Tajmirul/devsLink',
         liveUrl: 'https://devlinks-demo.vercel.app/auth/signin',
