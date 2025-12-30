@@ -4,16 +4,16 @@ export const GENERAL_INFO = {
     email: 'ramesh.apppro@gmail.com',
 
     emailSubject: "Let's collaborate on a project",
-    emailBody: 'Hi Tajmrul123, I am reaching out to you because...',
+    emailBody: 'Hi Ramesh R, I am reaching out to you because...',
 
-    oldPortfolio: 'https://www.legacy.me.toinfinite.dev',
-    upworkProfile: 'https://www.upwork.com/freelancers/tajmirul',
+    oldPortfolio: '',
+    upworkProfile: '',
 };
 
 export const SOCIAL_LINKS = [
-    { name: 'github', url: 'https://github.com/Tajmirul' },
-    { name: 'linkedin', url: 'https://www.linkedin.com/in/tajmirul' },
-    { name: 'facebook', url: 'https://www.facebook.com/tajmirul.2000' },
+    { name: 'github', url: 'https://github.com/rameshapppro' },
+    { name: 'linkedin', url: 'https://www.linkedin.com/in/ramesh-r-r-a6480aa8/' },
+    { name: 'facebook', url: '' },
     { name: 'Old Version', url: GENERAL_INFO.oldPortfolio },
 ];
 
@@ -104,8 +104,7 @@ export const PROJECTS: IProject[] = [
         description: ` RFID-based digital warehouse system for managing and tracking onboard ship spares with offline synchronization.<br/><br/>
 
       This project is a digital warehouse management solution for ships, designed to efficiently manage onboard spare parts using RFID technology. The application enables seamless check-in and check-out of spares, ensuring accurate inventory tracking and real-time visibility of available components. It highlights critical spares on the home screen, allowing crew and engineers to quickly identify high-priority items required for operations or maintenance.
-
-The system supports offline-first functionality, enabling users to access spare details and view work locations inside the ship even in low-connectivity or no-network environments. All inventory updates, inspections, and transactions are securely stored locally and synchronized automatically when connectivity is restored. By digitizing manual warehouse processes and integrating RFID-based identification, the solution improves inventory accuracy, reduces downtime, and enhances operational efficiency for maritime operations. <br/> <br/>
+      The system supports offline-first functionality, enabling users to access spare details and view work locations inside the ship even in low-connectivity or no-network environments. All inventory updates, inspections, and transactions are securely stored locally and synchronized automatically when connectivity is restored. By digitizing manual warehouse processes and integrating RFID-based identification, the solution improves inventory accuracy, reduces downtime, and enhances operational efficiency for maritime operations. <br/> <br/>
       
       
       `,
@@ -131,11 +130,11 @@ The system supports offline-first functionality, enabling users to access spare 
             'MVVM Architecture',
             'Hilt',
         ],
-        thumbnail: '/projects/thumbnail/mti-electronics.webp',
-        longThumbnail: '/projects/long/mti-electronics.webp',
+        thumbnail: '/projects/images/prop.png',
+        longThumbnail: '/projects/images/prop.png',
         images: [
-            '/projects/images/mti-electronics-1.webp',
-            '/projects/images/mti-electronics-2.webp',
+            '/projects/images/prop.png',
+
         ],
     },
     {
@@ -150,14 +149,11 @@ The system supports offline-first functionality, enabling users to access spare 
             'Material design',
             'Hilt',
         ],
-        thumbnail: '/projects/thumbnail/epikcart.jpg',
-        longThumbnail: '/projects/long/epikcart.jpg',
+        thumbnail: '/projects/images/agri.png',
+        longThumbnail: '/projects/images/agri.png',
         images: [
-            '/projects/images/epikcart-1.png',
-            '/projects/images/epikcart-2.png',
-            '/projects/images/epikcart-3.png',
-            '/projects/images/epikcart-4.png',
-            '/projects/images/epikcart-5.png',
+            '/projects/images/agri.png',
+
         ],
         liveUrl: 'https://demo.epikcart.siphertech.com/',
         year: 2023,
@@ -210,12 +206,10 @@ Farm Voice is an interactive platform where farmers can connect with progressive
             'Firebase',
             'MVVM Architecture',
         ],
-        thumbnail: '/projects/thumbnail/resume-roaster.jpg',
-        longThumbnail: '/projects/long/resume-roaster.jpg',
+        thumbnail: '/projects/images/audi.png',
+        longThumbnail: '/projects/images/audi.png',
         images: [
-            '/projects/images/resume-roaster-1.png',
-            '/projects/images/resume-roaster-2.png',
-            '/projects/images/resume-roaster-3.png',
+            '/projects/images/audi.png',
         ],
         liveUrl: 'https://resume-roaster.vercel.app/',
         year: 2018,
@@ -247,9 +241,8 @@ Farm Voice is an interactive platform where farmers can connect with progressive
         thumbnail: '/projects/thumbnail/property-pro.jpg',
         longThumbnail: '/projects/long/property-pro.jpg',
         images: [
-            '/projects/images/property-pro-1.png',
-            '/projects/images/property-pro-2.png',
-            '/projects/images/property-pro-3.png',
+            '/projects/images/adi.png',
+
         ],
         liveUrl: 'https://demo.propertypro.siphertech.com/',
         year: 2023,
@@ -272,12 +265,10 @@ Farm Voice is an interactive platform where farmers can connect with progressive
         title: 'TouchPoint',
         slug: 'TouchPoint',
         techStack: ['Java', 'SQLite', 'MP Chart', 'Bootstrap'],
-        thumbnail: '/projects/thumbnail/consulting-finance.jpg',
-        longThumbnail: '/projects/long/consulting-finance.jpg',
+        thumbnail: '/projects/images/repo.png',
+        longThumbnail: '/projects/images/repo.png',
         images: [
-            '/projects/images/consulting-finance-1.png',
-            '/projects/images/consulting-finance-2.png',
-            '/projects/images/consulting-finance-3.png',
+            '/projects/images/repo.png',
         ],
         sourceCode: 'https://github.com/Tajmirul/crenotive',
         liveUrl: 'https://crenotive.netlify.app/',
@@ -300,12 +291,10 @@ Farm Voice is an interactive platform where farmers can connect with progressive
         title: 'SurveyBeat',
         slug: 'devLinks',
         techStack: ['Java', 'SQLite', 'Firebase', 'Background Services', 'MVP Architecture'],
-        thumbnail: '/projects/thumbnail/devLinks.jpg',
-        longThumbnail: '/projects/long/devLinks.jpg',
+        thumbnail: '/projects/images/sur.png',
+        longThumbnail: '/projects/images/sur.png',
         images: [
-            '/projects/images/devLinks-1.png',
-            '/projects/images/devLinks-2.png',
-            '/projects/images/devLinks-3.png',
+            '/projects/images/sur.png'
         ],
         sourceCode: 'https://github.com/Tajmirul/devsLink',
         liveUrl: 'https://devlinks-demo.vercel.app/auth/signin',
